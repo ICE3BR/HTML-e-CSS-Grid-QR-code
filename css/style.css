@@ -38,6 +38,17 @@ body {
 	height: 247px;
 }
 
+.attribution {
+    text-align: center;
+    margin-bottom: 1rem;
+    margin-top: 386px;
+    font-size: 0.735rem;
+}
+
+.attribution, a {
+    color: var(--dark-blue);
+}
+
 h3, p {
 	text-align: center;
 }
